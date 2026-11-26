@@ -86,4 +86,21 @@ entry_str = StringVar()
 
 search_label = LabelFrame(root, text="Search: ", font=('Century Schoolbook L', 17))
 
-search_label.pack
+search_label.pack(pady=10, padx=10)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
